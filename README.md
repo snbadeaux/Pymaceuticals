@@ -13,6 +13,11 @@ Analysis
 
 -The fact that there were minimal outliers, shows that the methodology and results of the study were consistent and reliable.
 
+The line graph singles out one mouse in order to see the tumor volume progression of Capomulin, a drug that seems to be more effective than others. The line shows that the tumor volume decrease as time increases. This also proves its effectiveness as a drug treatment. Of course, further studies would be needed to show just how effective this drug regimen could be.
+
+-The scatter plot shows, that the heavier the mouse, the less effective the drug regimens seem to be. This can be confirmed by looking at the substantial correlation value of 0.84.
+
+
 Sources:
 
 Python Tutorial. (n.d.). https://www.w3schools.com/python/
@@ -22,7 +27,3 @@ Stack Overflow - Where Developers Learn, Share, & Build Careers. (n.d.). Stack O
 https://chat.openai.com/: used to help debug problematic for loop.
 
 Starter code given from boot camp class and instructions
-
-The line graph singles out one mouse in order to see the tumor volume progression of Capomulin, a drug that seems to be more effective than others. The line shows that the tumor volume decrease as time increases. This also proves its effectiveness as a drug treatment. Of course, further studies would be needed to show just how effective this drug regimen could be.
-
--The scatter plot shows, that the heavier the mouse, the less effective the drug regimens seem to be. This can be confirmed by looking at the substantial correlation value of 0.84.
